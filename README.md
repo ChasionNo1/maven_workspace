@@ -1,5 +1,5 @@
 # maven_workspace
-maven创建java工程和web工程的简单使用
+maven创建java工程和web工程的简单使用\n
 javaweb部分：
 1、servlet
 2、jsp
